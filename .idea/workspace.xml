@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5476a36-ab98-4997-aa3d-2de21dc5d124" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/yanyi_front/frame01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yanyi_front/css/api.css" beforeDir="false" afterPath="$PROJECT_DIR$/yanyi_front/css/api.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yanyi_front/html/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yanyi_front/image/loading_more.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yanyi_front/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/yanyi_front/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yanyi_front/script/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/yanyi_front/script/api.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/yanyi_backend/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Reset.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+              <folding>
+                <element signature="e#40#61#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Check.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <folding>
+                <element signature="e#40#69#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Getforum.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <element signature="e#40#61#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Comment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="568">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+              <folding>
+                <element signature="e#40#66#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Getcomment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+              <folding>
+                <element signature="e#40#66#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Like.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+              <folding>
+                <element signature="e#40#66#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+              <folding>
+                <element signature="e#40#69#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanyi_backend/app/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/model/Forum.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanyi_front/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1938">
+              <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/yanyi_front" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/yanyi_backend/app/home.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/.env" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/office.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/extra/database.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/model/UserInfo.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/login.php" />
+        <option value="$PROJECT_DIR$/yanyi_front/html/userLogin.html" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Che.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/CheckEmail.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Checkemail.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/common/controller/IndefityCode.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Sendmail.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/SendEmail.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Login.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Index.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/extra/cookie.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Check.php" />
+        <option value="$PROJECT_DIR$/yanyi_front/html/register.html" />
+        <option value="$PROJECT_DIR$/yanyi_front/html/login.html" />
+        <option value="$PROJECT_DIR$/yanyi_front/html/forgetPass.html" />
+        <option value="$PROJECT_DIR$/yanyi_front/html/frame0.html" />
+        <option value="$PROJECT_DIR$/yanyi_front/script/common.js" />
+        <option value="$PROJECT_DIR$/yanyi_front/html/frame01.html" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/model/Forum.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Forum.php" />
+        <option value="$PROJECT_DIR$/yanyi_front/script/getforum.js" />
+        <option value="$PROJECT_DIR$/yanyi_front/html/frame1.html" />
+        <option value="$PROJECT_DIR$/yanyi_front/script/forgetPass.js" />
+        <option value="$PROJECT_DIR$/yanyi_front/script/login.js" />
+        <option value="$PROJECT_DIR$/yanyi_front/script/register.js" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/config.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Sendemail.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Reset.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Register.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Getforum.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Getcomment.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Comment.php" />
+        <option value="$PROJECT_DIR$/yanyi_backend/app/index/controller/Like.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-image" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-helper" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-captcha" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/composer" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/workerman/workerman" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-worker" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-queue" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-oracle" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-mongo" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-migration" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-installer" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/PHPMailer-master/language" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/PHPMailer-master/src" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-117" />
+    <option name="y" value="66" />
+    <option name="width" value="1710" />
+    <option name="height" value="985" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yanyi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanyi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yanyi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanyi" type="462c0819:PsiDirectoryNode" />
+              <item name="yanyi_backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yanyi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanyi" type="462c0819:PsiDirectoryNode" />
+              <item name="yanyi_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yanyi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanyi" type="462c0819:PsiDirectoryNode" />
+              <item name="yanyi_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yanyi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanyi" type="462c0819:PsiDirectoryNode" />
+              <item name="yanyi_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\math\yanyi\yanyi_front" />
+      <recent name="E:\math\yanyi\yanyi_backend\vendor" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5476a36-ab98-4997-aa3d-2de21dc5d124" name="Default Changelist" comment="" />
+      <created>1563950923071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563950923071</updated>
+      <workItem from="1563950927550" duration="5326000" />
+      <workItem from="1563963342842" duration="15580000" />
+      <workItem from="1563984468729" duration="3516000" />
+      <workItem from="1564026775469" duration="22855000" />
+      <workItem from="1564056469118" duration="12216000" />
+      <workItem from="1564308570923" duration="16062000" />
+      <workItem from="1564382678597" duration="3486000" />
+      <workItem from="1564386848501" duration="2249000" />
+      <workItem from="1564400308407" duration="41000" />
+      <workItem from="1564494344200" duration="698000" />
+      <workItem from="1564495283113" duration="215000" />
+      <workItem from="1565172064735" duration="3562000" />
+      <workItem from="1566802766929" duration="10182000" />
+      <workItem from="1566825602479" duration="118000" />
+      <workItem from="1566825836640" duration="3728000" />
+      <workItem from="1566968496076" duration="3784000" />
+      <workItem from="1566989500059" duration="72000" />
+      <workItem from="1567327932992" duration="3280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106970000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-93" y="53" width="1368" height="788" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15801527" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yanyi_front/image/btmbtn0301.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/image/btmbtn0102.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/image/bottombtn0402.png" />
+    <entry file="file://$PROJECT_DIR$/yanyi_front/image/bottombtn0302.png" />
+    <entry file="file://$PROJECT_DIR$/yanyi_front/image/bottombtn0202.png" />
+    <entry file="file://$PROJECT_DIR$/yanyi_front/image/bottombtn0201.png" />
+    <entry file="file://$PROJECT_DIR$/yanyi_front/css/common.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/css/aui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1482" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/css/api.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1052" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Checkemail.php" />
+    <entry file="file://$PROJECT_DIR$/yanyi_front/.idea/modules.xml" />
+    <entry file="file://$PROJECT_DIR$/yanyi_front/.idea/衍易.iml" />
+    <entry file="file://$PROJECT_DIR$/yanyi_front/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/css/modifyNick.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="123" column="18" selection-start-line="123" selection-start-column="18" selection-end-line="123" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/common/controller/IndefityCode.php" />
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/vendor/PHPMailer/src/PHPMailer.php" />
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/vendor/PHPMailer/src/Exception.php" />
+    <entry file="file://$PROJECT_DIR$/yanyi_front/script/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1881">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/extra/cookie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/frame01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/script/forgetPass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="67" column="52" lean-forward="true" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/script/getforum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="35" column="63" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/script/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="83" column="56" selection-start-line="83" selection-start-column="56" selection-end-line="83" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/html/forgetPass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/script/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7105">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/script/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="108" column="52" selection-start-line="108" selection-start-column="52" selection-end-line="108" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/html/frame1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/html/frame2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/html/frame3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2470">
+          <caret line="130" column="5" lean-forward="true" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/html/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="47" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/html/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/html/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1596" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/html/frame0.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/extra/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/model/UserInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="e#40#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Sendemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <element signature="e#40#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="e#40#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/model/Forum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_front/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Reset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+          <folding>
+            <element signature="e#40#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+          <folding>
+            <element signature="e#40#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Getforum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#40#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Getcomment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <element signature="e#40#66#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <element signature="e#40#66#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanyi_backend/app/index/controller/Like.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="e#40#66#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

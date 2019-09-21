@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-image" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-helper" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-captcha" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/composer" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/workerman/workerman" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-worker" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-queue" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-oracle" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-mongo" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-migration" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/topthink/think-installer" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/PHPMailer-master/language" />
+      <path value="$PROJECT_DIR$/yanyi_backend/vendor/PHPMailer-master/src" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.4.0" />
+</project>
